@@ -1,0 +1,7 @@
+earthengine-api>=0.1.300
+geemap
+pandas
+numpy
+scikit-learn
+tensorflow
+geopandas
